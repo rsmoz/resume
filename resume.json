@@ -1,163 +1,91 @@
 {
-  "name": "Robert S Mozayeni",
-  "meta": {
-    "format": "FRESH@0.1.0",
-    "version": "0.1.0"
-  },
-  "info": {
+  "basics": {
+    "name": "",
     "label": "",
-    "characterClass": "",
-    "brief": "",
-    "image": ""
-  },
-  "contact": {
-    "website": "http://rsmoz.me",
-    "phone": "(240) 888-5745",
-    "email": "r@mzy.me",
-    "other": []
-  },
-  "location": {
-    "address": "",
-    "city": "",
-    "region": "",
-    "code": "",
-    "country": ""
-  },
-  "social": [
-    {
-      "label": "",
-      "network": "",
-      "user": "",
-      "url": ""
-    }
-  ],
-  "employment": {
-    "summary": "",
-    "history": [
-      {
-        "employer": "",
-        "url": "",
-        "position": "",
-        "summary": "",
-        "start": "",
-        "end": "",
-        "keywords": [],
-        "highlights": []
-      }
-    ]
-  },
-  "education": {
-    "summary": "",
-    "level": "",
+    "picture": "",
+    "email": "",
+    "phone": "",
     "degree": "",
-    "history": [
-      {
-        "institution": "",
-        "url": "",
-        "start": "",
-        "end": "",
-        "grade": "",
-        "summary": "",
-        "curriculum": []
-      }
-    ]
-  },
-  "service": {
+    "website": "",
     "summary": "",
-    "history": [
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
       {
-        "flavor": "",
-        "position": "",
-        "organization": "",
-        "url": "",
-        "start": "",
-        "end": "",
-        "summary": "",
-        "highlights": []
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "skills": {
-    "sets": [
-      {
-        "name": "",
-        "level": "",
-        "skills": []
-      }
-    ],
-    "list": []
-  },
-  "samples": [
+  "work": [
     {
-      "title": "",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
-      "url": "",
-      "date": ""
-    }
-  ],
-  "writing": [
-    {
-      "title": "",
-      "flavor": "",
-      "date": "",
-      "publisher": {
-        "name": "",
-        "url": ""
-      },
-      "url": ""
-    }
-  ],
-  "reading": [
-    {
-      "title": "",
-      "flavor": "",
-      "url": "",
-      "author": ""
-    }
-  ],
-  "recognition": [
-    {
-      "flavor": "",
-      "from": "",
-      "title": "",
-      "event": "",
-      "date": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "flavor": "",
-      "private": true,
-      "contact": [
-        {
-          "label": "",
-          "flavor": "",
-          "value": ""
-        }
+      "highlights": [
+        ""
       ]
     }
   ],
-  "testimonials": [
+  "awards": [
     {
-      "name": "",
-      "flavor": "",
-      "quote": ""
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
-  "languages": [
+  "education": [
     {
-      "language": "",
-      "level": "",
-      "years": 0
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
     }
   ],
-  "interests": [
+  "publications": [
     {
       "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
-      "keywords": []
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
     }
   ]
 }
