@@ -1,26 +1,31 @@
 {
   "basics": {
-    "name": "",
+    "name": "Robert S Mozayeni",
     "label": "",
     "picture": "",
-    "email": "",
-    "phone": "",
+    "email": "r@mzy.me",
+    "phone": "240-888-5745",
     "degree": "",
-    "website": "",
+    "website": "http://rsmoz.me",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Bethesda",
+      "countryCode": "US",
+      "region": "MD"
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
+        "network": "Twitter",
+        "username": "rsmoz",
+        "url": "https://twitter.com/rsmoz"
+      },
+	  {
+        "network": "LinkedIn",
+        "username": "rsmoz",
+        "url": "https://www.linkedin.com/in/rsmoz"
+	  }
     ]
   },
   "work": [
@@ -81,7 +86,7 @@
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Swift",
       "level": "",
       "keywords": [
         ""
